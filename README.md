@@ -1,3 +1,5 @@
+![Preview](images/screenshot.png)
+
 # ARMLite Stopwatch Program
 
 This is a Stopwatch program made with ARM Assembly and runs on the ARMLite simulator.
