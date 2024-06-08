@@ -1,4 +1,4 @@
-![Preview](images/screenshot.png)
+![Project Banner](.github/ARMLite%20Stopwatch.png)
 
 # ARMLite Stopwatch Program
 
