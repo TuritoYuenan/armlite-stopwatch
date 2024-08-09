@@ -1,6 +1,12 @@
 ![Project Banner](.github/ARMLite%20Stopwatch.png)
 
-# ARMLite Stopwatch Program
+# School Assignment: ARMLite Stopwatch Program
+
+> - Assignment: Assignment 2 - ARM Assembly Programming
+> - Unit: Computer Systems (COS10004)
+> - Student: Nguyen Ta Minh Triet
+> - Date: 13 November 2023 - 26 November 2023
+> - School: Swinburne University of Technology (HCMC Campus, Vietnam)
 
 This is a Stopwatch program made with ARM Assembly and runs on the ARMLite simulator.
 
